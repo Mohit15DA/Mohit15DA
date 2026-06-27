@@ -53,8 +53,8 @@ I am a **passionate Data Analyst** with a strong foundation in transforming raw,
 
 ---
 
-## 🐍 Contribution Graph
+<!-- Snake Game Repo View -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohit15DA/Mohit15DA/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
